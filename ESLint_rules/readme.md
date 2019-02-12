@@ -1,6 +1,5 @@
 # ESLint 推荐的rules
 
-[TOC]
 ### no-compare-neg-zero
 
 > 禁止与 -0 进行比较
