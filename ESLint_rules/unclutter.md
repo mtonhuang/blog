@@ -1,5 +1,4 @@
 # ESLint 补充
-[TOC]
 
 ### no-duplicate-imports
 
