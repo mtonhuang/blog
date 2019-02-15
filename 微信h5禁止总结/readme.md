@@ -1,7 +1,7 @@
 > 平时在重构微信h5项目中，遇到一些微信h5禁止的小坑，在此分享(1.28 update again)。
 
 
-### 禁止页面分享
+### 1.禁止页面分享
 ```
 //隐藏微信分享菜单，当点击右上角时不会出现分享的选项
     document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
@@ -9,7 +9,7 @@
     });
 ```
 
-### 禁止页面上下拉动
+### 2.禁止页面上下拉动
 
 ```
  //禁止页面上拉下拉
@@ -18,7 +18,7 @@
     }, {passive: false}); //passive 参数不能省略，用来兼容ios和android
 ```
 
-### 禁止微信浏览器图片长按出现菜单
+### 3.禁止微信浏览器图片长按出现菜单
 网上挺多代码无效，下面亲测有效（兼容ios与android）
 
 ```
@@ -30,7 +30,7 @@ img{
 }
 ```
 
-### 禁止微信浏览器长按“显示在浏览器打开”
+### 4.禁止微信浏览器长按“显示在浏览器打开”
 
 ```
  document.oncontextmenu=function(e){
@@ -38,8 +38,9 @@ img{
       e.preventDefault();
     };
 ```
+（注：如果是微信6.0以下的版本，则第3 , 4点一句 -webkit-touch-callout: none 即可解决的出现菜单和“显示在浏览器打开“的问题）
 
-### 禁止复制文本
+### 5.禁止复制文本
 ```
 -webkit-user-select: none;
 user-select: none;
@@ -49,7 +50,7 @@ user-select: none;
 ****
 
 
-### 禁止浏览器调整字体大小
+### 6.禁止浏览器调整字体大小
 ios解决方案：
 ```
 body {
