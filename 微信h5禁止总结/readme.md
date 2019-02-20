@@ -94,3 +94,37 @@ android解决方案（用自执行函数强制禁止用户修改字体大小）�
 ```
 document.body.addEventListener('touchstart', function (){}); //...空函数即可
 ```
+
+### 8.禁止页面上下拉，但不影响页面内部scroll
+2.20号 在某个微信群里关注到第2点的代码会影响页面内部的scroll
+
+```
+
+      var overscroll = function(el) {
+        el.addEventListener("touchstart", function() {
+          var top = el.scrollTop,
+            totalScroll = el.scrollHeight,
+            currentScroll = top + el.offsetHeight;
+          if (top === 0) {
+            el.scrollTop = 1;
+          } else if (currentScroll === totalScroll) {
+            el.scrollTop = top - 1;
+          }
+        });
+        el.addEventListener("touchmove", function(evt) {
+          if (el.offsetHeight < el.scrollHeight) evt._isScroller = true;
+        });
+      };
+      overscroll(document.querySelector(".collect__bd")); //允许滚动的区域
+      document.body.addEventListener(
+        "touchmove",
+        function(evt) {
+          //In this case, the default behavior is scrolling the body, which
+          //would result in an overflow.  Since we don't want that, we preventDefault.
+          if (!evt._isScroller) {
+            evt.preventDefault();
+          }
+        },
+        { passive: false }
+      );
+```
