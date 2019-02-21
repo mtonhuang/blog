@@ -96,17 +96,23 @@ document.body.addEventListener('touchstart', function (){}); //...空函数即�
 ```
 
 ### 8.禁止页面上下拉，但不影响页面内部scroll
-2.20号 在某个微信群里关注到第2点的代码会影响页面内部的scroll
+2.20号 在某个微信群里关注到第2点的代码会影响页面内部的scroll，用之前的项目测试了一下，确实如此。
+
+但如果去掉第2点的代码，虽然内部的scroll可以正常使用了，但橡皮筋的效果出现了。
+
+这怎么能忍呢？于是遍寻良药：
 
 ```
 
-      var overscroll = function(el) {
+  var overscroll = function(el) {
+//el需要滑动的元素
         el.addEventListener("touchstart", function() {
           var top = el.scrollTop,
             totalScroll = el.scrollHeight,
             currentScroll = top + el.offsetHeight;
+//被滑动到最上方和最下方的时候
           if (top === 0) {
-            el.scrollTop = 1;
+            el.scrollTop = 1; //0～1之间的小数会被当成0
           } else if (currentScroll === totalScroll) {
             el.scrollTop = top - 1;
           }
@@ -115,16 +121,12 @@ document.body.addEventListener('touchstart', function (){}); //...空函数即�
           if (el.offsetHeight < el.scrollHeight) evt._isScroller = true;
         });
       };
-      overscroll(document.querySelector(".collect__bd")); //允许滚动的区域
-      document.body.addEventListener(
-        "touchmove",
-        function(evt) {
-          //In this case, the default behavior is scrolling the body, which
-          //would result in an overflow.  Since we don't want that, we preventDefault.
+      overscroll(document.querySelector(".aaaa")); //允许滚动的区域
+      document.body.addEventListener("touchmove",function(evt) {
           if (!evt._isScroller) {
-            evt.preventDefault();
+            evt.preventDefault(); //阻止默认事件(上下滑动)
           }
         },
-        { passive: false }
+        { passive: false } //这行依旧不可以省略，用于兼容ios
       );
 ```
