@@ -4,6 +4,6 @@
  
  如果想要更深入的理解git，或者完成更加复杂的操作，需要系统性的学习。
 
-![](https://user-gold-cdn.xitu.io/2019/2/25/16924a548eaa277d?w=1435&h=895&f=png&s=106247)
+![](https://github.com/mtonhuang/bolg/blob/master/git%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/images/git%E7%BB%88%E7%AB%AFvim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.png)
 
-![](https://user-gold-cdn.xitu.io/2019/2/25/16924a4f49ced446?w=2489&h=6749&f=png&s=1255002)
+![](https://github.com/mtonhuang/bolg/blob/master/git%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/images/git%E5%91%BD%E4%BB%A4%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
