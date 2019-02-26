@@ -8,4 +8,4 @@
 
 4. [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
 
-5.[前端开源项目收集](https://github.com/mtonhuang/bolg/tree/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E6%BA%90%E6%94%B6%E9%9B%86)
+5. [前端开源项目收集](https://github.com/mtonhuang/bolg/tree/master/%E5%89%8D%E7%AB%AF%E5%BC%80%E6%BA%90%E6%94%B6%E9%9B%86)
