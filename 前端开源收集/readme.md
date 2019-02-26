@@ -2,7 +2,7 @@
 
   我理解的组件化开发是将复杂并混乱的页面逻辑，分割成一个个独立的业务单元。就像下图的房子，把门，屋顶，窗户以及墙体分开，最后拼凑在一起，组成一个房子。
 
-![](https://github.com/mtonhuang/bolg/blob/master/images/source_1.png)
+![](https://github.com/mtonhuang/bolg/blob/master/images/home.png)
 
   本周整理收集了一下GitHub上的几个比较热门的项目，用于组件化开发、提升开发效率。
 
@@ -14,7 +14,7 @@ github：https://github.com/alibaba/ice
 
 效果图如图：
 
-![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(1).png)
+![](https://github.com/mtonhuang/bolg/blob/master/images/ice.png)
 
 开源协议：MIT
 
