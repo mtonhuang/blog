@@ -2,7 +2,7 @@
 
   我理解的组件化开发是将复杂并混乱的页面逻辑，分割成一个个独立的业务单元。就像下图的房子，把门，屋顶，窗户以及墙体分开，最后拼凑在一起，组成一个房子。
 
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_1.png)
 
   本周整理收集了一下GitHub上的几个比较热门的项目，用于组件化开发、提升开发效率。
 
@@ -14,9 +14,7 @@ github：https://github.com/alibaba/ice
 
 效果图如图：
 
-
- 浏览器兼容性
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(1).png)
 
 开源协议：MIT
 
@@ -27,7 +25,7 @@ github：https://github.com/keenwon/jqPaginator
 
 效果如图：
 
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(5).png)
 
 开源协议：MIT
 
@@ -42,7 +40,7 @@ github：https://github.com/drcmda/react-spring
 
 效果如图：
 
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(2).png)
 
 开源协议：ISC
 
@@ -51,14 +49,7 @@ github：https://github.com/drcmda/react-spring
 
 github：https://github.com/TalkingData/iview-weapp
 
-
-
-
-
-
-
-
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(3).png)
 
 开源协议：MIT
 
@@ -71,7 +62,7 @@ github：https://github.com/bvaughn/react-window
 
 效果如图：
 
-
+![](https://github.com/mtonhuang/bolg/blob/master/images/source_2%20(4).png)
 
 示例代码：
 
