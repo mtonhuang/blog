@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery源码解析</title>
+</head>
+<style>
+    .myEleFirst {
+        display: block;
+        width: 100px;
+        height: 100px;
+        margin: 10px auto;
+        background: red;
+    }
+    button {
+        display: block;
+        width: 20px;
+        height: 20px;
+        margin: auto;
+    }
+</style>
+<body>
+<div class="myEle">这是一个div</div>
+<span class="myEle">这是一个span</span>
+<button onclick="removeClass()"></button>
+<!--<script src="jquery-3.3.1.js"></script>-->
+<script type="text/javascript" src="sizzle.min.js"></script>
+<script type="text/javascript" src="jquerMey-1.0.1.js"></script>
+<script type="text/javascript">
+    var $eles = $(".myEle");
+    var $eles = jQuery(".myEle");
+    console.log($eles);
+    $eles.addClass('myEleFirst');
+    function removeClass() {
+        $eles.removeClass("myEleFirst")
+    }
+</script>
+</body>
+</html>
