@@ -6,6 +6,6 @@
  
  有需要请download高清图，喜欢的请给个star ^_^
 
-![](https://github.com/mtonhuang/bolg/blob/master/git%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/images/git%E5%91%BD%E4%BB%A4%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
+![](https://github.com/mtonhuang/bolg/blob/master/git_mindMap/images/git%E5%91%BD%E4%BB%A4%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
 
-![](https://github.com/mtonhuang/bolg/blob/master/git%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/images/git%E7%BB%88%E7%AB%AFvim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.png)
+![](https://github.com/mtonhuang/bolg/blob/master/git_mindMap/images/git%E7%BB%88%E7%AB%AFvim%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.png)
