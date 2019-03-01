@@ -19,6 +19,7 @@
 4. [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 5. [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)
 6. [前端开源项目收集](https://github.com/mtonhuang/bolg/tree/master/collect)
+7. [手撸webpack4.0配置](https://github.com/mtonhuang/blog/tree/master/webpack4.0)
 
 ![](https://github.com/mtonhuang/blog/blob/master/images/all.png)
 
