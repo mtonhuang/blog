@@ -1,6 +1,6 @@
 > 平时在开发h5项目中，遇到一些h5的小坑，在此分享(2.17 update again)。
 
-博客维护在git上，欢迎给一个star!!! https://github.com/mtonhuang/bolg
+掘金同步更新：https://juejin.im/post/5c2ec622e51d4552411a9854，欢迎给一个star!!! 
 
 ### 1.微信端禁止页面分享
 ```
