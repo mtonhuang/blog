@@ -17,7 +17,7 @@ module.exports = {
         // 添加hash可以防止文件缓存，每次都会生成4位的hash串
         filename: "[name].[hash:4].js",  // 打包后会生成index.js和print.js文件
         path: path.resolve(__dirname, 'dist'),
-        publicPath: "/"
+        // publicPath: "/"
     },
     // devServer开发服务器配置
     devServer: {                        //webpack-dev-server 能够实时重新加载
