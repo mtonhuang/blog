@@ -1,3 +1,5 @@
+[掘金](https://juejin.im/post/5c5560f16fb9a049b07dcad0)同步更新，欢迎给个star！
+
 # ESLint 推荐的rules
 
 ### no-compare-neg-zero
