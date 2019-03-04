@@ -47,7 +47,6 @@ user-select: none;
 -webkit-touch-callout: none;
 ```
 
-****
 
 
 ### 6.禁止浏览器调整字体大小
