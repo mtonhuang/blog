@@ -1,14 +1,18 @@
-# webpack4.0配置
+﻿
+
+# 手写一个webpack4.0配置
 
 ## Project setup
 ```
-tnpm install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm start
 ```
+
+其他基本配置说明都在[webpack.config.js](https://github.com/mtonhuang/webpack/blob/master/webpack-demo/webpack.config.js)中，就不再赘述了，以下是我在搭建demo时觉得需要注意的问题，记录沉淀下来。
 
 ### 解决Webpack4.0 打包警告问题
 ```
@@ -101,4 +105,16 @@ if (module.hot) {
     // 实现热更新
     module.hot.accept();
 }
+```
+
+### 上传git忽略node_module等文件
+
+在根目录新建.gitignore文件
+
+```
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+
 ```
