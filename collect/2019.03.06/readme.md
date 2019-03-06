@@ -32,7 +32,7 @@ github：https://github.com/ElemeFE/v-charts
 
 效果图如图：
 
-![](https://github.com/mtonhuang/bolg/blob/master/images/source(2).png)
+![](https://github.com/mtonhuang/bolg/blob/master/images/source(2).gif)
 
 示例代码：
 
@@ -127,9 +127,9 @@ github：https://github.com/react-tools/react-move
 
 效果图如图：
 
-![](https://github.com/mtonhuang/bolg/blob/master/images/source(5).png)
+![](https://github.com/mtonhuang/bolg/blob/master/images/source(5).gif)
 
-![](https://github.com/mtonhuang/bolg/blob/master/images/source(6).png)
+![](https://github.com/mtonhuang/bolg/blob/master/images/source(6).gif)
 
 
 
