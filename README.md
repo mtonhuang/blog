@@ -11,9 +11,9 @@
 
 于是我就萌生了把这些问题沉淀成blog的想法，分享自己成长路线。希望能帮助到大家，也让大家见证我的勤奋与努力，一起进步。
 
-大部分文章会同步更新[掘金](https://juejin.im/user/5b3ba41af265da0f4734f926/posts),欢迎骚扰！
+大部分文章会同步更新 [掘金](https://juejin.im/user/5b3ba41af265da0f4734f926/posts) ,欢迎骚扰！
 
-也欢迎大家来我的[小站](huangmiantong.cn)踩踩。
+也欢迎大家来我的 [小站](http://huangmiantong.cn/) 踩踩。
 
 
 ### 大纲（持续输出ing）
