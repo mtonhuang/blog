@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-基本配置的详细说明在[webpack.config.js](https://github.com/mtonhuang/webpack/blob/master/webpack-demo/webpack.config.js)中有介绍，请移步，不再赘述了。
+基本配置的详细说明在[webpack.config.js](https://github.com/mtonhuang/blog/blob/master/webpack4.0/webpack.config.js)中有介绍，请移步，不再赘述了。
 
 以下是我在搭建模板demo时觉得需要注意的问题，记录沉淀下来。
 
