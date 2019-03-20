@@ -1,6 +1,6 @@
 ﻿
 
-# 手写一个webpack4.0配置
+# 手写一个webpack4.0配置 —— 快速搭建单页面及多页面开发
 
 ## Project setup
 ```
@@ -12,7 +12,9 @@ npm install
 npm start
 ```
 
-其他基本配置说明都在[webpack.config.js](https://github.com/mtonhuang/webpack/blob/master/webpack-demo/webpack.config.js)中，就不再赘述了，以下是我在搭建demo时觉得需要注意的问题，记录沉淀下来。
+基本配置的详细说明在[webpack.config.js](https://github.com/mtonhuang/webpack/blob/master/webpack-demo/webpack.config.js)中有介绍，请移步，不再赘述了。
+
+以下是我在搭建模板demo时觉得需要注意的问题，记录沉淀下来。
 
 ### 解决Webpack4.0 打包警告问题
 ```
