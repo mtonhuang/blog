@@ -27,7 +27,7 @@
 - ES6（待更新）
 
 #### h5c3
-- [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5)
+- [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5/h5_problem)
 - [h5移动端拖拽](https://github.com/mtonhuang/bolg/tree/master/h5/h5_drap)
 - [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
 
