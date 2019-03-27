@@ -39,5 +39,5 @@
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect) （更新）
 
-![](https://github.com/mtonhuang/blog/blob/master/images/all.png)
+![](https://github.com/mtonhuang/blog/blob/master/images/blog.png)
 
