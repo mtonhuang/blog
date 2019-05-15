@@ -13,7 +13,7 @@
 
 大部分文章会同步更新 [掘金](https://juejin.im/user/5b3ba41af265da0f4734f926/posts) ,欢迎骚扰！
 
-也欢迎大家来我的 [小站](http://huangmiantong.cn/) 踩踩。
+欢迎大家来我的 [小站](http://huangmiantong.cn/) 踩踩。
 
 
 ### 大纲（持续输出ing）
@@ -25,6 +25,11 @@
     - [React基础理论图](https://github.com/mtonhuang/bolg/tree/master/React/basic_theory)
     - 进阶
 - ES6（待更新）
+
+#### 组件
+
+- [tag](https://github.com/mtonhuang/bolg/tree/master/packages/vue-tag)
+- [omim mdc-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag)
 
 #### h5c3
 - [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5/h5_problem)
