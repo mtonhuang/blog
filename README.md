@@ -1,5 +1,9 @@
 ## 无名无利，砥砺前行
 
+最近一两个月挺忙得，没来得及更新，会陆陆续续更新的。
+
+---------------------------------------
+
 2019.03.09 00:35 我的blog在ID为uniquexiaobai的star下，成功破百，开心至极，夜不能寐，多多少少缓了昨天下午股市大跌，亏损5个点的低迷情绪。
 
 从2月12号至今，感谢大家的支持，感恩！ 这也坚定了我坚持写技术blog的决心，接下来会做更多的技术分享，大家一起努力o(*￣︶￣*)o  
@@ -27,10 +31,10 @@
 - ES6（待更新）
 
 #### 组件
-
-- [tag](https://github.com/mtonhuang/bolg/tree/master/packages/vue-tag)
-- [omim mdc-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag)
-
+- omi && vue tag
+  - [omim mdc-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag) 
+  - [vue-tag](https://github.com/mtonhuang/bolg/tree/master/packages/vue-tag)
+- [基于vue的Weui（wxpay-ui）](https://github.com/mtonhuang/wxpay-ui)
 #### h5c3
 - [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5/h5_problem)
 - [h5移动端拖拽](https://github.com/mtonhuang/bolg/tree/master/h5/h5_drap)
