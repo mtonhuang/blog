@@ -47,6 +47,7 @@
 #### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect) （更新）
+- [分享一些有用的前端网站（珍藏版）](https://github.com/mtonhuang/bolg/tree/master/collect/good_net)（2019/05/7）
 
 ![](https://github.com/mtonhuang/blog/blob/master/images/blog.png)
 
