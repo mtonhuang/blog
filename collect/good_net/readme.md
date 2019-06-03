@@ -7,7 +7,7 @@
 
 ### 分享一些有用的前端网站
 
-###工具类
+### 工具类
 
 - [字体生成器](https://www.fontke.com/tool/fontface/)
 
@@ -47,7 +47,7 @@
 
 - [服务器返回的14种常见HTTP状态码](https://blog.csdn.net/q1056843325/article/details/53147180)
 
-###面试类
+### 面试类
 
 - [剑指offer](https://www.nowcoder.com/ta/coding-interviews)
 
@@ -61,7 +61,7 @@
 
 
 
-###编码规则类
+### 编码规则类
 
 - [如何看待 CSS 中 BEM 的命名方式](https://www.zhihu.com/question/21935157)
 
@@ -70,7 +70,7 @@
 - [Airbnb JavaScript 编码风格指南](https://segmentfault.com/a/1190000013040555)
 
 
-###音乐类
+### 音乐类
 
 - [一个好听的白噪音网站](https://noises.online/)
 
