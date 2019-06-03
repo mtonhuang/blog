@@ -13,7 +13,7 @@
 
 - [webpack4.0用之初体验](https://www.cnblogs.com/cangqinglang/p/8964460.html)
   
-- [Visual Studio Code 常用快捷键](https://blog.csdn.net/p358278505/article/details/74221214)
+- [VSCode 常用快捷键](https://blog.csdn.net/p358278505/article/details/74221214)
 
 - [VSCode 插件配置](https://juejin.im/post/5a08d1d6f265da430f31950e)
 
@@ -24,6 +24,8 @@
 - [图片压缩TinyPNG](https://tinypng.com/)
 
 - [hexo设置](https://blog.csdn.net/ganzhilin520/article/details/79047249)
+
+- [Web端上传数据——JavaScript客户端签名直传](https://help.aliyun.com/document_detail/31925.html?spm=a2c4g.11186623.6.633.32Z8FV)
 
 #### 前端知识类
 
@@ -37,6 +39,11 @@
   
 - [如何防止CSRF攻击？](如何防止CSRF攻击？)
 
+- [前端实现文件的断点续传](https://www.cnblogs.com/imwtr/p/5957391.html)
+
+- [了解真实的『REM』手机屏幕适配](https://juejin.im/entry/5833f572128fe1006ccda98b)
+
+- [服务器返回的14种常见HTTP状态码](https://blog.csdn.net/q1056843325/article/details/53147180)
 #### 面试类
 
 - [几道高级前端面试题解析](https://www.cnblogs.com/cangqinglang/p/8964448.html)
