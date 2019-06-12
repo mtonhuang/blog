@@ -4,7 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const ExtractTextWebpackPlugin = require('extract-text-webpack-plugin');
 const webpack = require('webpack');
 const autoprefixer = require('autoprefixer');
-const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');//压缩css插件
+// const OptimizeCssAssetsPlugin = require('optimize-css-assets-webpack-plugin');//压缩css插件
 module.exports = {
     //entry入口文件
     // 多页面开发，配置多页面
@@ -15,12 +15,14 @@ module.exports = {
     output: {
         // [name]就可以将出口文件名和入口文件名一一对应
         // 添加hash可以防止文件缓存，每次都会生成4位的hash串
-        filename: "[name].[hash:4].js",  // 打包后会生成index.js和print.js文件
+		// publicPath: "//wx.gtimg.com/static/cdn/yuanxiao-action/dist/",
+        filename: "[name].[hash].js",  // 打包后会生成index.js和print.js文件
         path: path.resolve(__dirname, 'dist')
     },
     // devServer开发服务器配置
     devServer: {                        //webpack-dev-server 能够实时重新加载
-        contentBase: path.join(__dirname, "dist"),
+		disableHostCheck: true,
+		contentBase: path.join(__dirname, "dist"),
         host: 'localhost',        // 默认是localhost
         port: 3000,
         open: false,             // 是否自动打开浏览器
@@ -49,7 +51,7 @@ module.exports = {
                             options: {
                                 plugins: [
                                     autoprefixer({
-                                        browsers: ['ie >= 8', 'Firefox >= 20', 'Safari >= 5', 'Android >= 4', 'Ios >= 6', 'last 4 version'],
+                                        // browsers: ['ie >= 8', 'Firefox >= 20', 'Safari >= 5', 'Android >= 4', 'Ios >= 6', 'last 4 version'],
                                         remove: true
                                     })
                                 ]
@@ -99,12 +101,24 @@ module.exports = {
             template: './src/html/index.html',  //模板文件路径所在位置
             filename: 'index.html',
             chunks: ['index'],            //对应的文件 =>对应关系,index.js对应的是index.html
-            hash: true                    //会在打包好的js后面加上hash串
+            hash: true,                    //会在打包好的js后面加上hash串
+			// minify: {
+			// 	removeComments: true,
+			// 	collapseWhitespace: true,
+			// 	removeRedundantAttributes: true,
+			// 	useShortDoctype: true,
+			// 	removeEmptyAttributes: true,
+			// 	removeStyleLinkTypeAttributes: true,
+			// 	keepClosingSlash: true,
+			// 	minifyJS: true,
+			// 	minifyCSS: true,
+			// 	minifyURLs: true,
+			// },
         }),
         // 拆分后会把css文件放到dist目录下的css/style.css
         new ExtractTextWebpackPlugin('css/[name].[hash].css'),
 
-        new OptimizeCssAssetsPlugin()
+        // new OptimizeCssAssetsPlugin()
     ],
 
     // resovle解析，配置别名和省略后缀名
