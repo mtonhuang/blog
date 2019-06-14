@@ -2,7 +2,7 @@
 
 ## 样式重置
 
-```
+```css
 body,p,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,fieldset,legend,input,select,textarea,button,th,td{margin:0;padding:0;} 
 h1,h2,h3,h4,h5,h6{font-size:100%;} 
 ul,dl,ol{list-style:none;} 
@@ -27,7 +27,7 @@ a{text-decoration:none;}
 ## viewport模板
 
 
-```
+```css
 <!DOCTYPE html> 
 <head> 
 <meta charset="utf-8"> 
@@ -51,7 +51,7 @@ a{text-decoration:none;}
 
 <strong>iPhoneX</strong>，作为唯一有刘海手机，对页面适配带来了问题，可以用如下代码适配iPhoneX。
 
-```
+```css
 /* iPhoneX适配 */
 @media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) { 
 .class{}
@@ -60,7 +60,7 @@ a{text-decoration:none;}
 
 <strong>iPhone4</strong>，作为窄屏手机，分辨率为960x640，web窗口的高度仅有832px，容易引起适配的问题，如页面的主体按钮被隐藏在屏幕外，通常需要对它做特殊适配
 
-```
+```css
 /* 适配iPhone4 */
 @media (device-height:480px) and (-webkit-min-device-pixel-ratio:2){
 .class{}
