@@ -44,6 +44,9 @@
 - [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 - [手撸webpack4.0配置](https://github.com/mtonhuang/blog/tree/master/webpack4.0)
 
+#### vscode系列
+- [改变vscode背景图](https://github.com/mtonhuang/bolg/tree/master/vscode/background)
+
 #### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect) （更新）
