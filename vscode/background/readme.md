@@ -35,7 +35,7 @@
     "background.useFront": true,
     "background.useDefault": false
 ```
-![](https://act.weixin.qq.com/static/images/201906/2b2d67f80d4e10240954f2a7b84cdf50.png)
+![](https://act.weixin.qq.com/static/images/201906/6817005564ad05045806b25c8d40b327.png)
 
 我在这里放入了两张图片，通常我们开发需要分屏操作，按下ctrl+\时一屏就会显示一张图片
 
