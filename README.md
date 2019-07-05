@@ -35,6 +35,7 @@
   - [omim mdc-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag) 
   - [vue-tag](https://github.com/mtonhuang/bolg/tree/master/packages/vue-tag)
 - [基于vue的Weui（wxpay-ui）](https://github.com/mtonhuang/wxpay-ui)
+- [antd of Vue 之table组件踩坑记](https://github.com/mtonhuang/bolg/tree/master/packages/antd-table)
 #### h5c3
 - [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5/h5_problem)
 - [h5移动端拖拽](https://github.com/mtonhuang/bolg/tree/master/h5/h5_drap)
