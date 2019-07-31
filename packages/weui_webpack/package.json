@@ -40,7 +40,7 @@
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "weui": "^2.0.1",
     "weui.js": "^1.2.1"
   },
