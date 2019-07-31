@@ -30,11 +30,12 @@
     - 进阶
 - ES6（待更新）
 
-#### 组件
+#### 组件/模板
 - omi && vue tag
   - [omim mdc-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag) 
   - [vue-tag](https://github.com/mtonhuang/bolg/tree/master/packages/vue-tag)
 - [基于vue的Weui（wxpay-ui）](https://github.com/mtonhuang/wxpay-ui)
+- [基于webpack搭建的weui模板](https://github.com/mtonhuang/packages/weui_webpack)
 - [antd of Vue 之table组件踩坑记](https://github.com/mtonhuang/bolg/tree/master/packages/antd-table)
 #### h5c3
 - [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5/h5_problem)

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0,viewport-fit=cover">
+    <title>WeUI</title>
+</head>
+
+<body ontouchstart>
+    <div class="page">
+        <div class="page__hd">
+            <h1 class="page__title">
+                WeUI 重构模板<br />
+                ——webapack架构版本
+            </h1>
+            <p class="page__desc">这个模板主要针对重构，因此没有使用webpack多个入口进行配置，采用了显示隐藏来控制。
+                点击进入想要体验的页面，需要退回时刷新即可,有任何问题欢迎骚扰 —— v_mtonhuang</p>
+        </div>
+        <div class="page__bd page__bd_spacing">
+            <ul id="pageUl">
+                <li class="list">
+                    <p class="list_p">Button</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/button.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">input</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/input.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">flex</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/flex.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">toast</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/toast.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">dialog</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/dialog.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">progress</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/progress.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">msg</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/msg.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">msg_success</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/msg_success.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">msg_warn</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/msg_warn.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">article</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/article.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">navbar</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/navbar.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">tabbar</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/tabbar.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">panel</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/panel.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">actionsheet</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/actionsheet.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">icons</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/icons.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">searchbar</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/searchbar.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">picker</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/picker.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">footer</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/footer.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">gallery</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/gallery.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">footer</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/footer.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">loadmore</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/loadmore.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">layers</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/layers.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">uploader</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/uploader.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">preview</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/preview.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">grid</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/grid.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">badge</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/badge.html')  %></div>
+                </li>
+                <li class="list">
+                    <p class="list_p">slider</p>
+                    <div class='pageDiv'><%= require('html-loader!./fragment/slider.html')  %></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        var pageUl = document.getElementById("pageUl");
+        var list = pageUl.querySelectorAll('.list');
+        var pageDiv = pageUl.querySelectorAll('.pageDiv');
+        for (var i = 0; i < pageDiv.length; i++) {
+            pageDiv[i].style.display = 'none';
+        }
+        for (var i = 0; i < list.length; i++) {
+            list[i].onclick = function (e) {
+                this.querySelector('.pageDiv').classList.add("goBlock");
+                list.forEach((item) => {
+                    item.getElementsByClassName('list_p')[0].style.display = 'none'
+                })
+            }
+        }
+    </script>
+</body>
+
+</html>
