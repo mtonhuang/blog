@@ -1,0 +1,48 @@
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">Datum</view>
+        <view class="page__desc">数据列表</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-form-datum">
+            <view class="weui-form-datum__group">
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">收款资金</view>
+                    <view class="weui-form-datum__value">¥2400.00</view>
+                </view>
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">收款笔数</view>
+                    <view class="weui-form-datum__value">220笔</view>
+                </view>
+            </view>
+            <view class="weui-form-datum__group">
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">商户号</view>
+                    <view class="weui-form-datum__value">890293420</view>
+                </view>
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">商户简称</view>
+                    <view class="weui-form-datum__value">广客隆</view>
+                </view>
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">联系人</view>
+                    <view class="weui-form-datum__value">刘*几</view>
+                </view>
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">银行卡</view>
+                    <view class="weui-form-datum__value">1234**********</view>
+                </view>
+            </view>
+            <view class="weui-form-datum__group">
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">申请时间</view>
+                    <view class="weui-form-datum__value">2018/05/21</view>
+                </view>
+                <view class="weui-form-datum__item">
+                    <view class="weui-form-datum__label">通过时间</view>
+                    <view class="weui-form-datum__value">2018/06/21</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
