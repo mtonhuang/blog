@@ -1,4 +1,4 @@
-我是mtonhuang，23year射手男，base深圳，程序员/斜杠青年/篮球爱好者。
+我是mtonhuang，23year射手男，base深圳，程序员/斜杠青年/篮球爱好者/投资爱好者/南山区第60名三井寿，第23名樱木花道。
 
 这里是我关于前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ 。
 
@@ -34,7 +34,8 @@
 - react
     - [React基础理论图](https://github.com/mtonhuang/bolg/tree/master/React/basic_theory)
     - 进阶
-- ES6（待更新）
+- ES6
+  - [实现一个filter，map函数](https://github.com/mtonhuang/blog/tree/master/packages/filter%26%26map%26%26reduce)
 
 #### 开源项目
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
