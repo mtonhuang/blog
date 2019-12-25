@@ -35,3 +35,7 @@
 
 ![](https://act.weixin.qq.com/static/images/201912/8f025754852def4aa4a1eeb8eae3d596.png)
 
+#### 提交MR/PR
+
+开发完后需要提交MR/PR，在仓库，选择Merge Request，选择你修改的分支，后面选择checkout的老板，提交你的MR即可。
+
