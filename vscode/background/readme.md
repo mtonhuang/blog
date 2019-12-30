@@ -1,8 +1,9 @@
-#### 改变vscode背景图片
+### 修改vscode背景图
 
 1. 打开vscode，在Extensions中搜索并download “background”插件。
 2. 打开setting，找到“在setting.json 中编辑”。
 3. 在用户设置中输入以下代码，按下ctrl + s，重启vscode。
+
 ```JS
     //background 的相关配置
     "update.enableWindowsBackgroundUpdates": true,
@@ -35,7 +36,7 @@
     "background.useFront": true,
     "background.useDefault": false
 ```
-![](https://act.weixin.qq.com/static/images/201906/6817005564ad05045806b25c8d40b327.png)
+![](https://act.weixin.qq.com/static/images/201906/2b2d67f80d4e10240954f2a7b84cdf50.png)
 
 我在这里放入了两张图片，通常我们开发需要分屏操作，按下ctrl+\时一屏就会显示一张图片
 

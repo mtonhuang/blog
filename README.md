@@ -50,7 +50,10 @@
 - [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
-
+- 
+#### vscode编程工具类
+- [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
+- 
 #### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect) （更新）
