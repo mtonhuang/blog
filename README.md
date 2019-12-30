@@ -49,6 +49,7 @@
 #### 版本/打包架构工具
 - [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
+- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
 
 #### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
