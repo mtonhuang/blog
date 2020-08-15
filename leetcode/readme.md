@@ -1,6 +1,8 @@
 #### leetcode刷题心得分享
 > 博主在刷leetcode时认为还不错的题目，大部分有发布个人题解（貌似反响还可以~），在此记录心得并且分享给大家（以下排序不分先后，并在代码里附带了本人leetcode链接，欢迎大家踩踩）
 
+#### leetcode刷题心得分享
+> 博主在刷leetcode时认为还不错的题目，大部分有发布个人题解（貌似反响还可以~），在此记录心得并且分享给大家（以下排序不分先后，并在代码里附带了本人leetcode链接，欢迎大家踩踩）
 ##### 369. 两个数组的交集
 
 给定两个数组，编写一个函数来计算它们的交集。
@@ -14,15 +16,18 @@
 输入：nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 输出：[9,4]
 
-<details><summary><b>解题思路</b></summary>
-<p>妙用includes和new Set<p>
+---
+
+解题思路：
+
+**妙用includes和set方法**
+
 ```JS
 /**
  * @param {number[]} nums1
  * @param {number[]} nums2
  * @return {number[]}
  */
-
 var intersection = function(nums1, nums2) {
     let arr = [];
     for(let i = 0; i < nums1.length; i++) {
@@ -32,15 +37,11 @@ var intersection = function(nums1, nums2) {
     }
     return Array.from(new Set(arr))
 };
-
 作者：mtonhuang
 链接：https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/includessettou-lan-jie-fa-by-mtonhuang/
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
-</details>
-
----
 
 ##### 1464. 数组中两元素的最大乘积
 
@@ -72,7 +73,6 @@ var maxProduct = function (nums) {
     let b = Math.max(...nums);
     return (a - 1) * (b - 1)
 };
-
 作者：mtonhuang
 链接：https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/solution/miao-yong-mathmaxspliceindexof-by-mtonhuang/
 来源：力扣（LeetCode）
