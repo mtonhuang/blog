@@ -14,14 +14,8 @@
 输入：nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 输出：[9,4]
 
----
-
-解题思路：
-
-**妙用includes和set方法**
-
-<details><summary><b>Answer</b></summary>
-
+<details><summary><b>解题思路</b></summary>
+<p>妙用includes和new Set<p>
 ```JS
 /**
  * @param {number[]} nums1
@@ -46,6 +40,7 @@ var intersection = function(nums1, nums2) {
 ```
 </details>
 
+---
 
 ##### 1464. 数组中两元素的最大乘积
 
