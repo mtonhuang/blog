@@ -16,7 +16,7 @@
 
 **解题思路：**
 
-/*妙用includes和set方法*/
+- 妙用includes和set方法
 
 ```JS
 /**
