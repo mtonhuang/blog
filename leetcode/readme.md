@@ -1,5 +1,5 @@
 #### leetcode刷题心得分享
-> 博主在刷leetcode时认为还不错的题目，大部分有发布个人题解（貌似反响还可以~），在此记录心得并且分享给大家（以下排序不分先后，并在代码里附带了本人leetcode链接，欢迎大家踩踩）
+> 博主在刷leetcode时认为还不错的题目，大部分有发布个人题解（貌似反响还可以~），在此记录心得并且分享给大家（以下排序不分先后，并在代码里附带了本人leetcode链接，欢迎大家踩踩）[以下题目都来自leetcode，本人题解]
 
 ##### 369. 两个数组的交集
 
@@ -14,9 +14,8 @@
 输入：nums1 = [4,9,5], nums2 = [9,4,9,8,4]
 输出：[9,4]
 
----
 
-解题思路：
+~ 解题思路：
 
 **妙用includes和set方法**
 
@@ -43,6 +42,7 @@ var intersection = function(nums1, nums2) {
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
+---
 
 ##### 1464. 数组中两元素的最大乘积
 
@@ -55,9 +55,7 @@ var intersection = function(nums1, nums2) {
 输出：12 
 解释：如果选择下标 i=1 和 j=2（下标从 0 开始），则可以获得最大值，(nums[1]-1)*(nums[2]-1) = (4-1)*(5-1) = 3*4 = 12 
 
----
-
-解题思路：
+~ 解题思路：
 - 求出最大值a
 - 删除a
 - 再求出最大值b
@@ -77,6 +75,41 @@ var maxProduct = function (nums) {
 
 作者：mtonhuang
 链接：https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/solution/miao-yong-mathmaxspliceindexof-by-mtonhuang/
+来源：力扣（LeetCode）
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+---
+##### 面试题 08.05. 递归乘法
+递归乘法。 写一个递归函数，不使用 * 运算符， 实现两个正整数的相乘。可以使用加号、减号、位移，但要吝啬一些。
+
+示例1:
+
+ 输入：A = 1, B = 10
+ 输出：10
+示例2:
+
+ 输入：A = 3, B = 4
+ 输出：12
+
+ ~ 解题思路：
+- 不用递归的方法
+
+```JS
+/**
+ * @param {number} A
+ * @param {number} B
+ * @return {number}
+ */
+var multiply = function (A, B) {
+    let res = 0;
+    for(let i = 0; i < B; i++) {
+        res+= A
+    }
+    return res;
+};
+
+作者：mtonhuang
+链接：https://leetcode-cn.com/problems/recursive-mulitply-lcci/solution/mnben-zhi-jiu-shi-mnci-m-by-mtonhuang/
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
