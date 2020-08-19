@@ -17,16 +17,14 @@
 
 ~ 解题思路：
 
-**妙用includes和set方法**
+- 妙用includes和set方法
 
 ```JS
-
 /**
  * @param {number[]} nums1
  * @param {number[]} nums2
  * @return {number[]}
  */
-
 var intersection = function(nums1, nums2) {
     let arr = [];
     for(let i = 0; i < nums1.length; i++) {
@@ -36,7 +34,6 @@ var intersection = function(nums1, nums2) {
     }
     return Array.from(new Set(arr))
 };
-
 作者：mtonhuang
 链接：https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/includessettou-lan-jie-fa-by-mtonhuang/
 来源：力扣（LeetCode）
@@ -72,7 +69,6 @@ var maxProduct = function (nums) {
     let b = Math.max(...nums);
     return (a - 1) * (b - 1)
 };
-
 作者：mtonhuang
 链接：https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/solution/miao-yong-mathmaxspliceindexof-by-mtonhuang/
 来源：力扣（LeetCode）
@@ -113,3 +109,4 @@ var multiply = function (A, B) {
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
+---
