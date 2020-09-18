@@ -31,6 +31,17 @@
 #### 博主leetcode算法分享【hot】
 - [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)
 
+#### 版本/打包抓包代理工具
+- [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
+- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
+- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
+- [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
+- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
+
+#### h5c3
+- [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5)
+- [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
+
 #### 剖析源码
 - [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)
 - vue源码（待更新）
@@ -44,16 +55,6 @@
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
 - [refactor-boilerplate](https://github.com/mtonhuang/refactor-boilerplate)
 - [omim-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag)
-
-#### h5c3
-- [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5)
-- [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
-
-#### 版本/打包架构工具
-- [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
-- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
-- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
-- [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 
 #### vscode编程工具类
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
