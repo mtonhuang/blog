@@ -37,7 +37,8 @@
 
 #### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
-- [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect) （更新）
+- [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
+- [小程序直播插件使用流程](https://github.com/mtonhuang/blog/blob/master/packages/live-miniprogram/live-miniprogram.md)
 
 ## 无名无利，砥砺前行
 半年多来，我的 [github](https://github.com/mtonhuang/bolg) blog star已达170+。
