@@ -14,6 +14,11 @@
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
 
+#### ts
+- [ts开发知识点实时记录](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
+
+#### 小程序【hot】
+- [Promise封装小程序请求](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)
 #### h5c3
 - [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5)
 - [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
