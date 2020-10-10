@@ -7,21 +7,18 @@
 #### 博主leetcode算法分享【hot】
 - [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)
 
-#### 版本/打包抓包代理工具
+#### 版本/打包工具
 - [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
-- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
 
 #### ts
 - [ts开发知识点实时记录](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
 
 #### 小程序【hot】
 - [Promise封装小程序请求](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)
-#### h5c3
-- [h5开发坑点总结](https://github.com/mtonhuang/bolg/tree/master/h5)
-- [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
+- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
 
 #### 剖析源码
 - [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)
@@ -31,6 +28,10 @@
     - 进阶
 - ES6
   - [实现一个filter，map函数](https://github.com/mtonhuang/blog/tree/master/packages/filter%26%26map%26%26reduce)
+
+#### h5c3
+- [h5开发坑点小总结](https://github.com/mtonhuang/bolg/tree/master/h5)
+- [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
 
 #### 开源项目
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
@@ -45,7 +46,7 @@
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
 - [小程序直播插件使用流程](https://github.com/mtonhuang/blog/blob/master/packages/live-miniprogram/live-miniprogram.md)
 
-## 无名无利，砥砺前行
+## 写在后面
 半年多来，我的 [github](https://github.com/mtonhuang/bolg) blog star已达170+。
 
 感谢大家的支持，感恩！ 
@@ -66,7 +67,4 @@
 大部分文章会同步更新 [掘金](https://juejin.im/user/5b3ba41af265da0f4734f926/posts) ,欢迎骚扰！
 
 这里呢，是我的 [小站](http://huangmiantong.cn/) ，欢迎大家。
-
-
-![](https://github.com/mtonhuang/blog/blob/master/images/blog.png)
 
