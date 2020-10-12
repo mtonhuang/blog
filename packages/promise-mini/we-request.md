@@ -108,27 +108,15 @@ import API from "../../api";
 - 2.请求格式如下
 ```JS
 Page({
-    data: {
-        isLoading: true
-    },
-
+    data: {},
     onLoad(query: any) {
-        loading = new Loading(this);
         this.test()
     },
-
-    // 获取品牌信息
     test: function () {
         let self = this;
-        let entryData: RequestBody = {
-            
-        }
-        API.getTest(entryData).then((res: any) => {
-            let getData = res.data;
-            self.setData({
-                
-            })
-        }).catch((err: string) => {
+        let entryData: RequestBody = {}
+        API.getTest(entryData).then((res: any) => {})
+        .catch((err: string) => {
             console.error(err)
         })
     }
