@@ -1,6 +1,15 @@
 ### 如何使小程序请求优雅化
 
-小程序原生的wx.request请求代码量繁琐，且容易造成回调地狱，不利于维护。故用Promise封装，大大减少代码量，提高可维护性。(注意，以下是以ts编写，可以根据需要改为js)
+小程序原生的wx.request请求代码量繁琐，且容易造成回调地狱，不利于维护。故用Promise封装，大大减少代码量，提高可维护性。最终效果如下：
+```js
+ API.getTest(entryData).then((res: any) => {})
+    .catch((err: string) => {
+        console.error(err)
+ })
+```
+那么我们需要如何做呢？
+
+(注意，以下是以ts编写，可以根据需要改为js)
 
 #### 一、引入登录态管理的网络请求组件weRequest
 
