@@ -119,6 +119,6 @@ class store {
        return '门店名称：' + this.name + '电话：' + this.tel;
    }
 }
-const storeDetail = new store('mton的小店', 13432801310);
+const storeDetail = new store('mton的小店', 123213213);
 console.log(storeDetail);
 ```
