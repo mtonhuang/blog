@@ -105,3 +105,20 @@ interface objData<T> {
 const obj: objData<string>;
 const arr: objData<string>[];
 ```
+
+#### 五、指定私有属性
+```JS
+class store {
+   private name;
+   private tel;
+   constructor(name: string, tel: number) {
+       this.name = name;
+       this.tel = tel;
+   }
+   get storeInfo() {
+       return '门店名称：' + this.name + '电话：' + this.tel;
+   }
+}
+const storeDetail = new store('mton的小店', 13432801310);
+console.log(storeDetail);
+```
