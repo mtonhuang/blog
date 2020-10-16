@@ -4,29 +4,29 @@
 
 ## github blog地址（持续输出ing）
 
-### 博主leetcode算法分享【hot】
-- [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)
+### 博主leetcode算法分享
+- [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)【hot】
 
 ### 版本/打包工具
-- [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
+- [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 
 ### 小程序【hot】
-- [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)
-- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
+- [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)【hot】
+- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)【hot】
 
 ### JQ&ts
+- [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)【hot】
 - [ts开发知识点实时记录](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
-- [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)<font color=red>【hot】</font>
 - ES6
   - [实现一个filter，map函数](https://github.com/mtonhuang/blog/tree/master/packages/filter%26%26map%26%26reduce)
 - react
   - [React基础理论图](https://github.com/mtonhuang/bolg/tree/master/React/basic_theory)
 
 ### h5c3
-- [h5开发坑点小总结](https://github.com/mtonhuang/bolg/tree/master/h5)
+- [h5开发坑点小总结](https://github.com/mtonhuang/bolg/tree/master/h5)【hot】
 - [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
 
 ### 开源项目
@@ -38,7 +38,7 @@
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
 
 ### 自编杂文
-- [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)
+- [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)【hot】
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
 - [小程序直播插件使用流程](https://github.com/mtonhuang/blog/blob/master/packages/live-miniprogram/live-miniprogram.md)
 
