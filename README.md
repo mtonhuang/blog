@@ -19,7 +19,7 @@
 
 ### JQ&ts
 - [ts开发知识点实时记录](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
-- [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)
+- [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)<font color=red>【hot】</font>
 - ES6
   - [实现一个filter，map函数](https://github.com/mtonhuang/blog/tree/master/packages/filter%26%26map%26%26reduce)
 - react
