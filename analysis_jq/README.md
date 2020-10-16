@@ -1,6 +1,10 @@
 [掘金](https://juejin.im/post/5c20cdcc6fb9a049d5198299)同步更新，欢迎给一个star!!! 
 
-这里先说一下解析源码的几个步骤：
+首先，我们先去官网把JQ的js相关文件download到本地，随意浏览一下源码，尝试理解jq的实现原理。
+
+接着我们创建一个属于自己的js文件(取名为jquerMey-1.0.1js)。
+
+ **这里先说一下解析源码的几个步骤：**
 
 1. 学会分析组成及架构 =>
 （JQ通过选择器（字符串）来检索所有匹配的DOM，并且进行批量操作，同时能够帮我们解决浏览器的兼容问题。）
@@ -12,15 +16,11 @@
 4. 阅读思考作者的语义
 
 5. 尝试补全
-
-我们先去官网把JQ的js相关文件download到本地，看着源码，仿照写法，一步步理解jq的原理。
-
-接着创建一个属于自己的全新js文件(取名为jquerMey-1.0.1js)。文件夹附带所有源码，欢迎download或者fork。
-
 好的，开搞吧！
 
-首先创立一个html文件，如图：
-```
+### 一、创立一个html文件
+
+```html
 <!DOCTYPE html>
  <html lang="en">
   <head>
@@ -45,8 +45,11 @@
 ![](https://user-gold-cdn.xitu.io/2018/12/24/167e02557ae6790d?w=558&h=118&f=png&s=13077)
 可以看到，这边jQuery.fn.init 输出的是一个数组，还有一系列方法。我们一步步来。
 
-这边先把JQ源码多余的东西都先删一下，留下最主要的地方，可以看到，定义一个匿名函数，创建 **闭包**。
-```
+### 二、删源码
+
+这边先把JQ源码的所有东西都先删一下，可以看到，定义一个匿名函数，创建 **闭包**。
+
+```js
 // 定义一个匿名函数，马上调用它,包起来调用的时候可以创建闭包
     (function(global,factory) {
         //内存中动态开辟了一块空间来执行这个里面的代码,对外是封闭的，可以访问外面的变量
@@ -57,8 +60,7 @@
 ```    
 好，接着分析
 
-
-```
+```js
 // 定义一个匿名函数，马上调用它,包起来调用的时候可以创建闭包
     (function (global, factory) {
         //内存中动态开辟了一块空间来执行这个里面的代码,对外是封闭的，可以访问外面的变量
@@ -84,10 +86,13 @@
 ```
 写到这里，那么这里注释说的CommonJS是什么呢？这就涉及到了上面说的node了。
 
+### 三、何为CommonJS
+
 CommonJS是nodejs也就是服务器端广泛使用的模块化机制。 该规范的主要内容是，模块必须通过module.exports 导出对外的变量或接口，通过 require() 来导入其他模块的输出到当前模块作用域中。
 
 ![](https://user-gold-cdn.xitu.io/2018/12/24/167e02a678b1792f?w=763&h=493&f=png&s=80800)
   
+### 四、JQuery的本质
 
 可以看到，这里并没有给factory()传入第二个参数，默认为false，则会执行下面if的代码(即为BOM环境)。在if语句中，可以看到jQuery一定是核心代码，那么jQuery到底是什么呢？继续看。
 
@@ -119,7 +124,7 @@ jQuery.fn = jQuery.prototype = {
 ![](https://user-gold-cdn.xitu.io/2018/12/24/167e02dd96637903?w=562&h=117&f=png&s=12216)
 
 
-```
+```js
 jQuery.fn = jQuery.prototype = {
         init : function (selector, context) {
             return jQuery.makeArray( selector, context );
@@ -141,12 +146,14 @@ jQuery.fn = jQuery.prototype = {
         return $eles;
     }
 ```
+### 五、补全添加方法
+
 继续补全，这样jQuery的 整体架构 就ok了，之后就是往里面添加东西。
 
 (比如往里面添加addClass，removeClass，each方法)
 
 
-```
+```js
 jQuery.fn = jQuery.prototype = {
         init : function (selector, context) {
             return jQuery.makeArray( selector, context );
@@ -170,11 +177,12 @@ jQuery.fn = jQuery.prototype = {
     };
  
 ```
+### 六、实践一下
 
 我们可以看到此时控制台里面已经有了我们添加的方法，让我们来实验一下。
 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -224,7 +232,7 @@ jQuery.fn = jQuery.prototype = {
 附上全部代码：
 
 
-```
+```js
 /*!
  * jqueMey JavaScript Library v1.0.1
  *
@@ -233,7 +241,7 @@ jQuery.fn = jQuery.prototype = {
  *
  * Copyright JS Foundation and other contributors
  * Released under the MIT license
- * Email: huangmiantong@126.com || v_mtonhuang@tencent.com
+ * Email: huangmiantong@126.com
  *
  * Date: 2018-12-11T22:04Z
  */
