@@ -16,6 +16,7 @@
 ### 小程序【hot】
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)【hot】
+- [多样化自定义小程序导航栏](https://github.com/mtonhuang/navbar-for-wxapp)
 
 ### JQ&ts
 - [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)【hot】
