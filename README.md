@@ -1,10 +1,6 @@
-我是mtonhuang，~~23~~24year射手男，base深圳，程序员/斜杠青年/篮球爱好者/投资爱好者。
+### github blog地址（持续输出ing）
 
-这里是我关于leetcode算法，前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ 。
-
-## github blog地址（持续输出ing）
-
-### 博主leetcode算法分享
+#### 博主leetcode算法分享
 - [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)【hot】
 
 #### 前端开发效能工具
@@ -14,12 +10,12 @@
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 - [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)
 
-### 小程序【hot】
+#### 小程序【hot】
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)【hot】
 - [多样化自定义小程序导航栏](https://github.com/mtonhuang/navbar-for-wxapp)
 
-### JQ&ts
+#### JQ&ts
 - [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)【hot】
 - [ts开发知识点实时记录](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
 - ES6
@@ -27,24 +23,29 @@
 - react
   - [React基础理论图](https://github.com/mtonhuang/bolg/tree/master/React/basic_theory)
 
-### h5c3
+#### h5c3
 - [h5开发坑点小总结](https://github.com/mtonhuang/bolg/tree/master/h5)【hot】
 - [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
 
-### 开源项目
+#### 开源项目
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
 - [refactor-boilerplate](https://github.com/mtonhuang/refactor-boilerplate)
 - [omim-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag)
 
-### vscode编程工具类
+#### vscode编程工具类
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
 
-### 自编杂文
+#### 自编杂文
 - [ESLint常用rules总结](https://github.com/mtonhuang/bolg/tree/master/ESLint_rules)【hot】
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
 - [小程序直播插件使用流程](https://github.com/mtonhuang/blog/blob/master/packages/live-miniprogram/live-miniprogram.md)
 
-## 写在后面
+### 写在后面
+
+我是mtonhuang，~~23~~24year射手男，base深圳，程序员/斜杠青年/篮球爱好者/投资爱好者。
+
+这里是我关于leetcode算法，前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ 。
+
 半年多来，我的 [github](https://github.com/mtonhuang/bolg) blog star已达170+。
 
 感谢大家的支持，感恩！ 
