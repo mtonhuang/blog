@@ -44,6 +44,7 @@ let bar = <string>foo; // 现在 bar 的类型是 'string'
 **相同点：**
     1. 都允许拓展（extends）
     2. 都可以描述一个对象或者函数
+    
 **不同点：**
     1. type 可以声明基本类型别名，联合类型，元组等类型
 
@@ -104,4 +105,21 @@ interface objData<T> {
 }
 const obj: objData<string>;
 const arr: objData<string>[];
+```
+
+#### 五、指定私有属性
+```JS
+class store {
+   private name;
+   private tel;
+   constructor(name: string, tel: number) {
+       this.name = name;
+       this.tel = tel;
+   }
+   get storeInfo() {
+       return '门店名称：' + this.name + '电话：' + this.tel;
+   }
+}
+const storeDetail = new store('mton的小店', 123213213);
+console.log(storeDetail);
 ```
