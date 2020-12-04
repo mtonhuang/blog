@@ -13,6 +13,7 @@
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 - [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)
+- [SQL思维图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 
 ### 小程序【hot】
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)【hot】
