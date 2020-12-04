@@ -1,4 +1,12 @@
-### TS 开发知识点记录
+### 前言——TS各种工具类型的库
+
+https://github.com/millsp/ts-toolbelt;
+https://github.com/sindresorhus/type-fest;
+https://github.com/piotrwitek/utility-types;
+https://github.com/krzkaczor/ts-essentials;
+https://github.com/type-challenges/type-challenges;
+
+### 记录——TS开发知识点
 
 #### 一、xxxx.d.ts || xxxx.ts 声明文件
 
