@@ -1,23 +1,23 @@
 ### github blog地址（持续输出ing）
 
-#### 博主leetcode算法分享
-- [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)【hot】
+#### leetcode算法
+- [leetcode](https://github.com/mtonhuang/blog/blob/master/leetcode/readme.md)
 
 #### 前端开发效能工具
-- [git思维导图（关于git的常用命令，重推！！！）](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
-- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
-- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
+- [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
+- [git 协同开发，需要注意的几个小点（实用）](https://github.com/mtonhuang/blog/blob/master/git_mindMap/git.md)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/blob/master/packages/node/node.md)
 - [json2ts——导入json自动识别生成d.ts类型声明（mark）](http://json2ts.com/)
 - [SQL思维图](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
+- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 
 #### 小程序【hot】
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/blob/master/packages/promise-mini/we-request.md)【hot】
-- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)【hot】
-- [多样化自定义小程序导航栏](https://github.com/mtonhuang/navbar-for-wxapp)
+- [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
+- [多样化自定义小程序导航栏](https://github.com/mtonhuang/navbar-for-wxapp)【Recent update】
 
 #### ts & JQ & ES6
-- [ts效能开发](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)
+- [ts效能开发](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)【Recent update】
 - [一步步分析JQ源码](https://github.com/mtonhuang/bolg/tree/master/analysis_jq)【hot】
 - ES6
   - [实现一个filter，map函数](https://github.com/mtonhuang/blog/tree/master/packages/filter%26%26map%26%26reduce)
