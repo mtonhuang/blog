@@ -28,6 +28,9 @@
 - [h5开发坑点小总结](https://github.com/mtonhuang/bolg/tree/master/h5)【hot】
 - [h5适配](https://github.com/mtonhuang/bolg/tree/master/h5/h5_adaptation)
 
+#### 转载好文
+- [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
+
 #### 开源项目
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
 - [refactor-boilerplate](https://github.com/mtonhuang/refactor-boilerplate)
