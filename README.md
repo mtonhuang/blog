@@ -20,7 +20,7 @@
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/blob/master/packages/whistle-for-miniprogram/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BD%BF%E7%94%A8whistle%E4%BB%A3%E7%90%86.md)
 - [多样化自定义小程序导航栏](https://github.com/mtonhuang/navbar-for-wxapp)【Recent update】
 
-#### ts
+#### TypeScript
 - [ts效能开发](https://github.com/mtonhuang/blog/blob/master/packages/ts/ts-detail.md)【Recent update】
   
 #### 剖析源码系列
