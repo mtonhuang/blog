@@ -28,7 +28,7 @@
 #### 剖析源码系列
 - [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
-- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/25)
+- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 
 #### h5c3
 - [h5开发坑点小总结](https://github.com/mtonhuang/blog/issues/19)【hot】
