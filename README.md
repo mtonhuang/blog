@@ -32,7 +32,8 @@
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
 - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
-- [小程序直播插件使用流程](https://github.com/mtonhuang/blog/issues/22)
+- 小程序云上报
+- [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
 
 </p>
 </details>
