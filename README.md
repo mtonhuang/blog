@@ -1,13 +1,24 @@
 ### github blog地址（持续输出ing）
 
-#### 近期想法
-- 1.小程序“微前端”的一些想法
 
-基于微信客户端 6.7.2，基础库 2.3.0 及以上版本的小程序"独立分包"概念，将大型的小程序拆分成n个模块，每个模块是一个独立分包，做到独立开发且不限制框架，如kbone，wepay，uni-app，taro等热门框架，又或者原生开发，独立测试。但现在做不到的是想h5一样模块独立部署，基于此限制，各个分包开发完成后打包dist，结合到主包，统一部署发布。有人可能会问，微前端不是为了实现不同模块独立部署，解耦而存在的吗？在我的理解里，小程序“微前端”更重要的是基于大型的迭代项目，在新的模块可以采用更新的开发模式，而不受限于原本项目，具备灵活性高，可持续性强的特点。
-#### leetcode算法
+<details open><summary><b> 近期想法 </b></summary>
+<ul>
+    <li>小程序“微前端”的一些想法: </li>
+    基于微信客户端 6.7.2，基础库 2.3.0 及以上版本的小程序"独立分包"概念，将大型的小程序拆分成n个模块，每个模块是一个独立分包，做到独立开发且不限制框架，如kbone，wepay，uni-app，taro等热门框架，又或者原生开发，独立测试。但现在做不到的是想h5一样模块独立部署，基于此限制，各个分包开发完成后打包dist，结合到主包，统一部署发布。有人可能会问，微前端不是为了实现不同模块独立部署，解耦而存在的吗？在我的理解里，小程序“微前端”更重要的是基于大型的迭代项目，在新的模块可以采用更新的开发模式，而不受限于原本项目，具备灵活性高，可持续性强的特点。
+</ul>
+</details>
+
+<details><summary><b> leetcode算法 </b></summary>
+<p>
+
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
+</p>
 
-#### 前端开发效能工具
+</details>
+
+<details><summary><b> 前端开发效能工具 </b></summary>
+<p>
+
 - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
@@ -16,37 +27,81 @@
 - [ESLint常用rules总结](https://github.com/mtonhuang/blog/issues/21)【hot】
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 
-#### 小程序【hot】
+</p>
+</details>
+
+
+<details><summary><b> 小程序开发 </b></summary>
+<p>
+
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
 - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
 - [小程序直播插件使用流程](https://github.com/mtonhuang/blog/issues/22)
 
-#### TypeScript
+</p>
+</details>
+
+<details><summary><b> TypeScript </b></summary>
+<p>
+
 - [ts效能开发](https://github.com/mtonhuang/blog/issues/17)【Recent update】
-  
-#### 剖析源码系列
+
+</p>
+</details>
+
+<details><summary><b> 剖析源码系列 </b></summary>
+<p>
+
 - [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
 - [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 
-#### h5c3
+</p>
+</details>
+
+<details><summary><b> h5c3 </b></summary>
+<p>
+
 - [h5开发坑点小总结](https://github.com/mtonhuang/blog/issues/19)【hot】
 - [h5适配](https://github.com/mtonhuang/blog/issues/20)
+- 
+</p>
+</details>
 
-#### 转载好文
-- [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
+<details><summary><b> 开源项目 </b></summary>
+<p>
 
-#### 开源项目
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
 - [refactor-boilerplate](https://github.com/mtonhuang/refactor-boilerplate)
 - [omim-tag](https://github.com/Tencent/omi/tree/master/packages/omim/src/tag)
 
-#### vscode编程工具类
+</p>
+</details>
+
+<details><summary><b> vscode有趣的插件 </b></summary>
+<p>
+
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
 
-#### 自编杂文
+</p>
+</details>
+
+<details><summary><b> 自编杂文 </b></summary>
+<p>
+
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
+
+</p>
+</details>
+
+<details><summary><b> 转载好文 </b></summary>
+<p>
+
+- [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
+
+</p>
+</details>
 
 ### 写在后面
 
