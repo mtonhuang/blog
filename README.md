@@ -8,15 +8,8 @@
 </ul>
 </details>
 
-<details><summary><b> leetcode算法 </b></summary>
-<p>
 
-- [leetcode](https://github.com/mtonhuang/blog/issues/24)
-</p>
-
-</details>
-
-<details><summary><b> 前端开发效能工具 </b></summary>
+<details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
 
 - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
@@ -31,7 +24,7 @@
 </details>
 
 
-<details><summary><b> 小程序开发 </b></summary>
+<details open><summary><b> 小程序开发 </b></summary>
 <p>
 
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
@@ -40,6 +33,14 @@
 - [小程序直播插件使用流程](https://github.com/mtonhuang/blog/issues/22)
 
 </p>
+</details>
+
+<details><summary><b> leetcode算法 </b></summary>
+<p>
+
+- [leetcode](https://github.com/mtonhuang/blog/issues/24)
+</p>
+
 </details>
 
 <details><summary><b> TypeScript </b></summary>
@@ -65,7 +66,7 @@
 
 - [h5开发坑点小总结](https://github.com/mtonhuang/blog/issues/19)【hot】
 - [h5适配](https://github.com/mtonhuang/blog/issues/20)
-- 
+
 </p>
 </details>
 
