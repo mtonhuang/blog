@@ -8,7 +8,6 @@
 </ul>
 </details>
 
-</details>
 
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
@@ -41,6 +40,8 @@
 
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
 </p>
+
+</details>
 
 <details><summary><b> TypeScript </b></summary>
 <p>
