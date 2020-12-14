@@ -12,15 +12,10 @@
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
     
--   <details open><summary><b> git实用技巧 </b></summary>
-    <p>
+- git实用技巧
 
-    - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
-    - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】
-
-    </p>
-    </details>
-    
+  - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
+  - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
 - [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
 - [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
@@ -40,16 +35,11 @@
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
 - 小程序 + typescript
 - 小程序云上报
+- 组件/插件
 
- -  <details open><summary><b> 组件/插件 </b></summary>
-    <p>
-
-    - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
-    - [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
-
-    </p>
-    </details>
-    
+   - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
+   - [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
+   
 </p>
 </details>
 
