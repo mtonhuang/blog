@@ -59,9 +59,9 @@
 </p>
 </details>
 
-<details open><summary><b> 剖析源码系列 </b></summary>
+<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
 <p>
-
+- [JS实现apply方法](https://github.com/mtonhuang/blog/issues)
 - [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
 - [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
