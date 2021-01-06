@@ -5,23 +5,6 @@
 
 - [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
 
-<details open><summary><b> 前端开发效能工具 </b></summary>
-<p>
-    
-- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
-- [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
-- [ESLint常用rules总结](https://github.com/mtonhuang/blog/issues/21)【hot】
-- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
-- [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
-- git实用技巧
-
-  - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
-  - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
-
-</p>
-</details>
-
-
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
     
@@ -38,6 +21,23 @@
    
 </p>
 </details>
+
+<details open><summary><b> 前端开发效能工具 </b></summary>
+<p>
+    
+- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
+- [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
+- [ESLint常用rules总结](https://github.com/mtonhuang/blog/issues/21)【hot】
+- [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
+- [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
+- git实用技巧
+
+  - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
+  - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
+
+</p>
+</details>
+
 
 <details open><summary><b> 深入JS/剖析源码系列 </b></summary>
 <p>
