@@ -8,10 +8,11 @@
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
     
-- [小程序底层原理——双线程](https://github.com/mtonhuang/blog/issues/28)
-- 使用computed计算/watch观察
+- [小程序底层原理汇总](https://github.com/mtonhuang/blog/issues/30)    
+- [小程序底层之双线程](https://github.com/mtonhuang/blog/issues/28)
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
+- 使用computed计算/watch观察
 - 小程序 + typescript
 - 小程序云上报
 - 组件/插件
