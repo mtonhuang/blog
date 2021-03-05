@@ -1,37 +1,53 @@
 ### github blog地址（持续输出ing）
 
 
-<details open><summary><b> 近期想法 </b></summary>
-<ul>
-    <li>小程序“微前端”的一些想法: </li>
-    基于微信客户端 6.7.2，基础库 2.3.0 及以上版本的小程序"独立分包"概念，将大型的小程序拆分成n个模块，每个模块是一个独立分包，做到独立开发且不限制框架，如kbone，wepay，uni-app，taro等热门框架，又或者原生开发，独立测试。但现在做不到的是想h5一样模块独立部署，基于此限制，各个分包开发完成后打包dist，结合到主包，统一部署发布。有人可能会问，微前端不是为了实现不同模块独立部署，解耦而存在的吗？在我的理解里，小程序“微前端”更重要的是基于大型的迭代项目，在新的模块可以采用更新的开发模式，而不受限于原本项目，具备灵活性高，可持续性强的特点。
-</ul>
-</details>
+<b>近期想法</b>
 
+- [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
+
+<details open><summary><b> 小程序开发 </b></summary>
+<p>
+    
+- [小程序底层原理汇总](https://github.com/mtonhuang/blog/issues/30)    
+- [小程序底层之双线程](https://github.com/mtonhuang/blog/issues/28)
+- [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/31)
+- [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
+- [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
+- 使用computed计算/watch观察
+- 小程序 + typescript
+- 小程序云上报
+- 组件/插件
+
+   - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
+   - [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
+   
+</p>
+</details>
 
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
-
-- [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
-- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】
-- [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
+    
 - [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
 - [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
 - [ESLint常用rules总结](https://github.com/mtonhuang/blog/issues/21)【hot】
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
+- [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
+- git实用技巧
+
+  - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
+  - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
 
 </p>
 </details>
 
 
-<details open><summary><b> 小程序开发 </b></summary>
+<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
 <p>
-
-- [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/27)
-- [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
-- [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
-- [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
-- [小程序直播插件使用流程](https://github.com/mtonhuang/blog/issues/22)
+    
+- [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
+- [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
+- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
+- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 
 </p>
 </details>
@@ -52,17 +68,7 @@
 </p>
 </details>
 
-<details><summary><b> 剖析源码系列 </b></summary>
-<p>
-
-- [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
-- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
-- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
-
-</p>
-</details>
-
-<details><summary><b> h5c3 </b></summary>
+<details open><summary><b> h5c3 </b></summary>
 <p>
 
 - [h5开发坑点小总结](https://github.com/mtonhuang/blog/issues/19)【hot】
