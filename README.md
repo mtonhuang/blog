@@ -7,7 +7,7 @@
 
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
-    
+- [小程序重大改动灰度方案](https://github.com/mtonhuang/blog/issues/32)    
 - [小程序底层原理汇总](https://github.com/mtonhuang/blog/issues/30)    
 - [小程序底层之双线程](https://github.com/mtonhuang/blog/issues/28)
 - [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/31)
