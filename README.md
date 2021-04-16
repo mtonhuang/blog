@@ -53,10 +53,16 @@
 </p>
 </details>
 
-<details><summary><b> leetcode算法 </b></summary>
+<details><summary><b> 算法 </b></summary>
 <p>
 
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
+- 快速排序
+- 冒泡排序
+- 插入排序
+- 归并排序
+- 二分法
+- deep
 </p>
 
 </details>
