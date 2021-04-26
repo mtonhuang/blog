@@ -14,6 +14,7 @@
 - [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/31)
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
+- [小程序滑动分页加载动效](https://github.com/mtonhuang/blog/issues/33)
 - 使用computed计算/watch观察
 - 小程序 + typescript
 - 小程序云上报
