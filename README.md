@@ -1,7 +1,7 @@
 ### github blog地址（持续输出ing）
 
 
-<b>近期想法</b>
+<b>近期想法:memo:</b>
 
 - [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
 
@@ -9,19 +9,15 @@
 <p>
    
 - [小程序重大改动灰度方案](https://github.com/mtonhuang/blog/issues/32)    
-- [小程序底层原理汇总](https://github.com/mtonhuang/blog/issues/30)    
-- [小程序底层之双线程](https://github.com/mtonhuang/blog/issues/28)
+- [小程序底层原理汇总:fire:](https://github.com/mtonhuang/blog/issues/30)
 - [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/31)
 - [如何使小程序请求优雅化](https://github.com/mtonhuang/blog/issues/14)【hot】
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
 - [小程序滑动分页加载动效](https://github.com/mtonhuang/blog/issues/33)
 - [小程序封装地图授权函数](https://github.com/mtonhuang/blog/issues/34)
-- 使用computed计算/watch观察
-- 小程序 + typescript
-- 小程序云上报
 - 组件/插件
 
-   - [多样化自定义小程序导航栏](https://github.com/mtonhuang/blog/issues/16)【Recent update】
+   - [多样化自定义小程序导航栏:fire:](https://github.com/mtonhuang/blog/issues/16)【Recent update】
    - [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
    
 </p>
@@ -30,25 +26,24 @@
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
     
-- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
 - [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
-- [ESLint常用rules总结](https://github.com/mtonhuang/blog/issues/21)【hot】
+- [ESLint常用rules总结:fire:](https://github.com/mtonhuang/blog/issues/21)【hot】
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
+- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
 - git实用技巧
 
-  - [git思维导图](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
+  - [git思维导图:fire:](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)【hot】
   - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
 
 </p>
 </details>
 
-
 <details open><summary><b> 深入JS/剖析源码系列 </b></summary>
 <p>
     
 - [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
-- [一步步分析JQ源码](https://github.com/mtonhuang/blog/issues/18)【hot】
+- [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)【hot】
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
 - [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 
