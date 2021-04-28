@@ -75,7 +75,7 @@
 <details open><summary><b> h5c3 </b></summary>
 <p>
 
-- [h5开发坑点小总结:memo:](https://github.com/mtonhuang/blog/issues/19)
+- [h5开发坑点小总结:fire:](https://github.com/mtonhuang/blog/issues/19)
 - [h5适配](https://github.com/mtonhuang/blog/issues/20)
 
 </p>
