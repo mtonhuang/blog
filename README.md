@@ -15,6 +15,7 @@
 - [小程序使用whistle代理](https://github.com/mtonhuang/blog/issues/15)
 - [小程序滑动分页加载动效](https://github.com/mtonhuang/blog/issues/33)
 - [小程序封装地图授权函数](https://github.com/mtonhuang/blog/issues/34)
+- [小程序gulp相关配置](https://github.com/mtonhuang/blog/issues/35)
 - 组件/插件
 
    - [多样化自定义小程序导航栏:fire:](https://github.com/mtonhuang/blog/issues/16)【Recent update】
