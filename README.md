@@ -1,5 +1,7 @@
 ### github blog地址（持续输出ing）
+<b>近期动态:memo:</b>
 
+- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 
 <b>近期想法:memo:</b>
 
@@ -51,7 +53,6 @@
 <p>
 
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
-- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 - [代码随想录](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8)
 </p>
 
