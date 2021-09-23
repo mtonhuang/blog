@@ -24,6 +24,17 @@
 </p>
 </details>
 
+<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
+<p>
+    
+- [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
+- [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)
+- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
+- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
+
+</p>
+</details>
+
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
     
@@ -34,17 +45,6 @@
 - [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)
 - [git思维导图:fire:](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
 - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13) 
-
-</p>
-</details>
-
-<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
-<p>
-    
-- [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
-- [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)
-- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
-- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 
 </p>
 </details>
@@ -75,7 +75,7 @@
 </p>
 </details>
 
-<details open><summary><b> 开源项目 </b></summary>
+<details open><summary><b> 自己捣鼓的玩意 </b></summary>
 <p>
 
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
@@ -85,29 +85,16 @@
 </p>
 </details>
 
-<details open><summary><b> vscode有趣的插件 </b></summary>
+<details open><summary><b> 其他 </b></summary>
 <p>
 
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
-
-</p>
-</details>
-
-<details open><summary><b> 自编杂文 </b></summary>
-<p>
-
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
-
-</p>
-</details>
-
-<details open><summary><b> 转载好文 </b></summary>
-<p>
-
 - [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
 
 </p>
 </details>
+
 
 ### 写在后面
 
