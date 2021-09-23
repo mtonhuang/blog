@@ -16,10 +16,8 @@
 - [小程序滑动分页加载动效](https://github.com/mtonhuang/blog/issues/33)
 - [小程序封装地图授权函数](https://github.com/mtonhuang/blog/issues/34)
 - [小程序gulp相关配置](https://github.com/mtonhuang/blog/issues/35)
-- 组件/插件
-
-   - [多样化自定义小程序导航栏:fire:](https://github.com/mtonhuang/blog/issues/16)【Recent update】
-   - [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
+- [多样化自定义小程序导航栏:fire:](https://github.com/mtonhuang/blog/issues/16)
+- [如何使用小程序直播插件](https://github.com/mtonhuang/blog/issues/22)
    
 </p>
 </details>
@@ -31,11 +29,9 @@
 - [ESLint常用rules总结:fire:](https://github.com/mtonhuang/blog/issues/21)
 - [手撸webpack4.0配置](https://github.com/mtonhuang/Multiple-page-boilerplate)
 - [node版本切换——nvm](https://github.com/mtonhuang/blog/issues/23)
-- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)【mark】
-- git实用技巧
-
-  - [git思维导图:fire:](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
-  - [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13)【实用】   
+- [json2ts——导入json自动识别生成d.ts类型声明](http://json2ts.com/)
+- [git思维导图:fire:](https://github.com/mtonhuang/bolg/tree/master/git_mindMap)
+- [git 协同开发，需要注意的几个小点](https://github.com/mtonhuang/blog/issues/13) 
 
 </p>
 </details>
@@ -54,14 +50,9 @@
 <details open><summary><b> 算法 </b></summary>
 <p>
 
-- [代码随想录](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8)
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
-- 快速排序
-- 冒泡排序
-- 插入排序
-- 归并排序
-- 二分法
-- deep
+- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
+- [代码随想录](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8)
 </p>
 
 </details>
@@ -69,7 +60,7 @@
 <details open><summary><b> TypeScript </b></summary>
 <p>
 
-- [ts效能开发](https://github.com/mtonhuang/blog/issues/17)【Recent update】
+- [ts效能开发](https://github.com/mtonhuang/blog/issues/17)
 
 </p>
 </details>
