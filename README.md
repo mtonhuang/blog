@@ -1,5 +1,7 @@
 ### github blog地址（持续输出ing）
+<b>近期动态:memo:</b>
 
+- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 
 <b>近期想法:memo:</b>
 
@@ -22,6 +24,17 @@
 </p>
 </details>
 
+<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
+<p>
+    
+- [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
+- [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)
+- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
+- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
+
+</p>
+</details>
+
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
     
@@ -36,22 +49,10 @@
 </p>
 </details>
 
-<details open><summary><b> 深入JS/剖析源码系列 </b></summary>
-<p>
-    
-- [JS实现apply方法](https://github.com/mtonhuang/blog/issues/29)
-- [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)
-- [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
-- [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
-
-</p>
-</details>
-
 <details open><summary><b> 算法 </b></summary>
 <p>
 
 - [leetcode](https://github.com/mtonhuang/blog/issues/24)
-- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 - [代码随想录](https://www.programmercarl.com/%E9%93%BE%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html#%E5%BE%AA%E7%8E%AF%E9%93%BE%E8%A1%A8)
 </p>
 
@@ -74,7 +75,7 @@
 </p>
 </details>
 
-<details open><summary><b> 开源项目 </b></summary>
+<details open><summary><b> 自己捣鼓的玩意 </b></summary>
 <p>
 
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
@@ -84,29 +85,16 @@
 </p>
 </details>
 
-<details open><summary><b> vscode有趣的插件 </b></summary>
+<details open><summary><b> 其他 </b></summary>
 <p>
 
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
-
-</p>
-</details>
-
-<details open><summary><b> 自编杂文 </b></summary>
-<p>
-
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
-
-</p>
-</details>
-
-<details open><summary><b> 转载好文 </b></summary>
-<p>
-
 - [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
 
 </p>
 </details>
+
 
 ### 写在后面
 
