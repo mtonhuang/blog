@@ -32,6 +32,7 @@
 - [一步步分析JQ源码:fire:](https://github.com/mtonhuang/blog/issues/18)
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
 - [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
+- [用Promise封装XMLHttpRequest](https://github.com/mtonhuang/blog/issues/38)
 
 </p>
 </details>
