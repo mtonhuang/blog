@@ -75,7 +75,7 @@
 </p>
 </details>
 
-<details open><summary><b> 自己捣鼓的玩意 </b></summary>
+<details open><summary><b> 自己捣鼓的小玩意 </b></summary>
 <p>
 
 - [wechatApp-template](https://github.com/mtonhuang/wechatApp-template)
