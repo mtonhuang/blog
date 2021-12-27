@@ -2,14 +2,11 @@
 <b>近期动态:memo:</b>
 
 - [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
+- [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
 
 <b>近期想法:memo:</b>
 
 - [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
-
-<b>近期更新</b>
-
-- [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
 
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
