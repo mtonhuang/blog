@@ -1,6 +1,6 @@
 ### github blog地址（持续输出ing）
 <b>近期动态:memo:</b>
-
+- [杂乱复习](https://github.com/mtonhuang/blog/issues/39)
 - [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 - [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
 
