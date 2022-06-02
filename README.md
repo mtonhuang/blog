@@ -1,6 +1,5 @@
 ### github blog地址（持续输出ing）
 <b>近期动态:memo:</b>
-- [杂乱复习](https://github.com/mtonhuang/blog/issues/39)
 - [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
 - [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
 
@@ -91,6 +90,7 @@
 <details open><summary><b> 其他 </b></summary>
 <p>
 
+- [杂乱复习](https://github.com/mtonhuang/blog/issues/39)
 - [修改vscode背景图](https://github.com/mtonhuang/blog/tree/master/vscode/background)
 - [前端开源项目收集 -> 2019.03.06刊](https://github.com/mtonhuang/bolg/tree/master/collect)
 - [Docker 部署 vue 项目](https://juejin.cn/post/6844903837774397447#comment)
