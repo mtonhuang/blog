@@ -32,6 +32,7 @@
 - [如何实现一个filter，map函数](https://github.com/mtonhuang/blog/issues/12)
 - [实现一个简易的axios](https://github.com/mtonhuang/blog/issues/26)
 - [用Promise封装XMLHttpRequest](https://github.com/mtonhuang/blog/issues/38)
+- [实现Promise.all()、race()、any()](https://github.com/mtonhuang/blog/issues/40)
 
 </p>
 </details>
