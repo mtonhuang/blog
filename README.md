@@ -1,14 +1,12 @@
 ### github blog地址（持续输出ing）
 <b>近期动态</b>
 - [助你效率翻倍的vscode插件](https://github.com/mtonhuang/blog/issues/43)
-
-<b>近期想法:memo:</b>
-
-- [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
+- [大文件上传demo](https://github.com/mtonhuang/blog/issues/42)
 
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
    
+- [小程序“微前端”的一些想法](https://github.com/mtonhuang/blog/issues/25)
 - [小程序重大改动灰度方案](https://github.com/mtonhuang/blog/issues/32)    
 - [小程序底层原理汇总:fire:](https://github.com/mtonhuang/blog/issues/30)
 - [小程序登录态管理dologin组件](https://github.com/mtonhuang/blog/issues/31)
