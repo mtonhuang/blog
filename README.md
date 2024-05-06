@@ -2,6 +2,8 @@
 <b>近期动态</b>
 - [助你效率翻倍的vscode插件](https://github.com/mtonhuang/blog/issues/43)
 - [大文件上传demo](https://github.com/mtonhuang/blog/issues/42)
+- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
+- [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
 
 <details open><summary><b> 小程序开发 </b></summary>
 <p>
