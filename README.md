@@ -1,7 +1,6 @@
 ### github blog地址（持续输出ing）
-<b>近期动态:memo:</b>
-- [微信社招算法面经](https://github.com/mtonhuang/blog/issues/36)
-- [浅尝websocket](https://github.com/mtonhuang/blog/issues/37)
+<b>近期动态</b>
+- [助你效率翻倍的vscode插件](https://github.com/mtonhuang/blog/issues/43)
 
 <b>近期想法:memo:</b>
 
@@ -39,7 +38,8 @@
 
 <details open><summary><b> 前端开发效能工具 </b></summary>
 <p>
-   
+
+- [助你效率翻倍的vscode插件](https://github.com/mtonhuang/blog/issues/43)   
 - [loupe可视化工具](http://latentflip.com/loupe/?code=ZnVuY3Rpb24gYSgpIHsNCiAgICBiKCk7DQogICAgY29uc29sZS5sb2coJ2EnKTsNCn0NCmZ1bmN0aW9uIGIoKSB7DQogICAgY29uc29sZS5sb2coJ2InKQ0KfQ0KYSgpOw0K!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
 - [SQL实用命令](https://github.com/mtonhuang/blog/blob/master/images/SQL.png)
 - [ESLint常用rules总结:fire:](https://github.com/mtonhuang/blog/issues/21)
